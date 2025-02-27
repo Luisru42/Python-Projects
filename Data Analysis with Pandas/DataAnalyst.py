@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Provide the path to your Excel file
-excel_file_path = "C:/Users/gonza/OneDrive/Documents/Practica de charts.xlsx"
+excel_file_path = "file-path"
 
 try:
     # Read the Excel file into a DataFrame
